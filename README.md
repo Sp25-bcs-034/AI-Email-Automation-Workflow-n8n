@@ -30,10 +30,7 @@ The project showcases practical AI workflow automation using no-code/low-code to
 ---
 
 ## Workflow Architecture
-
-> *(Workflow Screenshot)*
-
-![Workflow](screenshots/workflow.png)
+<img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/f0bdb526-5148-49e0-a7f0-dd5aba1a0c03" />
 
 ---
 
@@ -95,10 +92,7 @@ Draft Email   Send Email
 
 ---
 
-## Screenshots
 
-### Complete Workflow
-<img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/aa2797b2-a6e5-4681-ba00-8aab1c0cc83f" />
 
 ---
 
